@@ -1,0 +1,3 @@
+../Src/MRCC_prg.c:9:6:MRCC_voidInit	4	static
+../Src/MRCC_prg.c:71:6:MRCC_voidEnablePeripheral	16	static
+../Src/MRCC_prg.c:92:6:MRCC_voidDisablePeripheral	16	static

@@ -1,0 +1,11 @@
+../Src/HMENU_program.c:38:11:sampleButton	16	static
+../Src/HMENU_program.c:51:20:putPixel	24	static
+../Src/HMENU_program.c:57:13:fillRect	40	static
+../Src/HMENU_program.c:71:13:drawChar	40	static
+../Src/HMENU_program.c:83:13:drawString	32	static
+../Src/HMENU_program.c:103:6:HMenu_voidInit	8	static
+../Src/HMENU_program.c:110:6:HMenu_voidPoll	8	static
+../Src/HMENU_program.c:159:13:drawMenu	40	static
+../Src/HMENU_program.c:197:11:readButtonUp	8	static
+../Src/HMENU_program.c:198:11:readButtonDown	8	static
+../Src/HMENU_program.c:199:11:readButtonSelect	8	static

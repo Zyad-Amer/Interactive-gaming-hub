@@ -1,0 +1,14 @@
+../Src/HXO_program.c:41:20:putPixel	5
+../Src/HXO_program.c:47:13:fillRect	7
+../Src/HXO_program.c:60:13:drawChar	6
+../Src/HXO_program.c:72:13:drawString	2
+../Src/HXO_program.c:82:6:HXO_btnXCallback	1
+../Src/HXO_program.c:87:6:HXO_btnOCallback	1
+../Src/HXO_program.c:92:6:HXO_btnNextCallback	1
+../Src/HXO_program.c:98:13:resetGame	3
+../Src/HXO_program.c:111:20:checkWinner	23
+../Src/HXO_program.c:157:13:makeMove	5
+../Src/HXO_program.c:170:13:drawBoard	18
+../Src/HXO_program.c:261:6:HXO_voidInit	1
+../Src/HXO_program.c:291:6:HXO_voidPoll	10
+../Src/HXO_program.c:337:12:HXO_u16GetFrameBuffer	1

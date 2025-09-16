@@ -1,0 +1,4 @@
+../Src/HTFT_prg.c:12:6:HTFT_voidInit	8	static
+../Src/HTFT_prg.c:43:13:HTFT_voidWriteData	16	static
+../Src/HTFT_prg.c:48:13:HTFT_voidWriteCommand	16	static
+../Src/HTFT_prg.c:53:6:HTFT_voidDisplay	24	static

@@ -1,0 +1,7 @@
+../Src/MGPIO_prg.c:6:6:MGPIO_voidSetPinMode	11
+../Src/MGPIO_prg.c:32:6:MGPIO_voidSetOutputConfig	11
+../Src/MGPIO_prg.c:62:6:MGPIO_voidSetPinValue	11
+../Src/MGPIO_prg.c:86:6:MGPIO_voidSetAtomicPinValue	12
+../Src/MGPIO_prg.c:112:6:MGPIO_voidSetINPUTConfig	11
+../Src/MGPIO_prg.c:136:4:MGPIO_u8GetPinValue	11
+../Src/MGPIO_prg.c:160:6:MGPIO_voidSetAltFuncConfig	17

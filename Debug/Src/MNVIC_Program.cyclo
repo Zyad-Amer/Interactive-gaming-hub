@@ -1,0 +1,7 @@
+../Src/MNVIC_Program.c:10:6:MNVIC_voidEnable	1
+../Src/MNVIC_Program.c:14:6:MNVIC_voidDisable	1
+../Src/MNVIC_Program.c:18:6:MNVIC_voidSetPendingFlag	1
+../Src/MNVIC_Program.c:22:6:MNVIC_voidClearPendingFlag	1
+../Src/MNVIC_Program.c:26:4:MNVIC_u8ReadingActiveState	1
+../Src/MNVIC_Program.c:30:6:MNVIC_voidSetGroupMode	1
+../Src/MNVIC_Program.c:38:6:MNVIC_voidSetInterruptPriority	6
